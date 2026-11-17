@@ -1,0 +1,7 @@
+reading_id,station,pressure_bar,flow_lpm,status
+201,North-Inlet,2.7,51,OK
+202,West-Pump,1.4,19,ALERT
+203,East-Filter,2.2,46,OK
+204,South-Tank,1.7,22,ALERT
+205,Main-Outlet,3.1,57,OK
+206,West-Pump,1.9,24,WARN
